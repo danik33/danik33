@@ -1,4 +1,5 @@
 My name is Danek, I am 20 Years old and I am an aspiring software developer. 
+Currently I reside in Israel, Haifa.
 You can contact me at: 
 - E-Mail: teroshed@gmail.com
 - Telegram: @darkleght 
