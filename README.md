@@ -13,4 +13,8 @@ Technologies and languages I am familiar with:
  - React (1-2 Years)
  - Bootstrap 
  - Material-ui
-  
+ - MySQL
+ - NodeJS 
+ - Express
+ 
+Always working on extending the list. 
